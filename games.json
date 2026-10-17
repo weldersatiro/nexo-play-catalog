@@ -1,0 +1,154 @@
+{
+  "games": [
+    {
+      "id": "bo1-zombies",
+      "title": "BO1 Zombies",
+      "url": "https://vel.gg/bo1z",
+      "description": "Zombies no navegador."
+    },
+    {
+      "id": "moon-zombies",
+      "title": "Moon",
+      "url": "https://moon-zombies.pages.dev",
+      "description": "Jogo web de zombies."
+    },
+    {
+      "id": "kino-der-toten",
+      "title": "Kino der Toten",
+      "url": "https://kino-der-toten.pages.dev",
+      "description": "Jogo web de zombies."
+    },
+    {
+      "id": "bo3-cheese-cube",
+      "title": "BO3 Cheese Cube",
+      "url": "https://cheese-cube.pages.dev",
+      "description": "Jogo web de zombies."
+    },
+    {
+      "id": "black-ops-2",
+      "title": "Black Ops 2",
+      "url": "https://vibeslops.luckeysystems.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "modern-warfare-2",
+      "title": "Modern Warfare 2",
+      "url": "https://ovz-game-production.up.railway.app",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "skate-3",
+      "title": "Skate 3",
+      "url": "https://skate.aaddpp.lol",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "skate-rust",
+      "title": "Skate Rust",
+      "url": "https://global-terror.net",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "cs-surf",
+      "title": "CS Surf",
+      "url": "https://surfd.net",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "halo-ce",
+      "title": "Halo CE",
+      "url": "https://mitchellhynes.com/halo",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "halo-ce-mobile",
+      "title": "Halo CE Mobile",
+      "url": "https://hcemobile.com",
+      "description": "Versão móvel no navegador."
+    },
+    {
+      "id": "pes-6",
+      "title": "PES 6",
+      "url": "https://pes6.optijuegos.net",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "gta-5",
+      "title": "GTA 5",
+      "url": "https://web.archive.org/web/20261006055917/https://playgta5.com/",
+      "description": "Link arquivado para um jogo no navegador."
+    },
+    {
+      "id": "gta-vice-city",
+      "title": "GTA Vice City",
+      "url": "https://joncodeofficial.github.io/gta-vice-city-wasm",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "the-simpsons-hit-and-run",
+      "title": "The Simpsons: Hit & Run",
+      "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "quake-1",
+      "title": "Quake 1",
+      "url": "https://q1.pieter.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "quake-2",
+      "title": "Quake 2",
+      "url": "https://q2.pieter.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "quake-3",
+      "title": "Quake 3",
+      "url": "https://q3.pieter.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "return-to-castle-wolfenstein",
+      "title": "Return to Castle Wolfenstein",
+      "url": "https://rtcw.pieter.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "unreal-tournament",
+      "title": "Unreal Tournament",
+      "url": "https://ut.pieter.com",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "half-life",
+      "title": "Half-Life",
+      "url": "https://pixelsuft.github.io/hl/",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "half-life-cs-16",
+      "title": "Half-Life / CS 1.6",
+      "url": "https://x8bitrain.github.io/webXash/",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "diablo",
+      "title": "Diablo",
+      "url": "https://johnimril.github.io/diablo_web/",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "hedgewars",
+      "title": "Hedgewars",
+      "url": "https://webwars.link",
+      "description": "Jogo no navegador."
+    },
+    {
+      "id": "wasm-arcade-fan-ports",
+      "title": "Mais GTA / Minecraft",
+      "url": "https://wasmarcade.com",
+      "description": "Portal de fan ports. Alguns jogos exigem arquivos próprios. Não baixe launchers."
+    }
+  ]
+}
